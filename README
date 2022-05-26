@@ -1,10 +1,10 @@
-miniCMS
+nanoCMS
 
 1. About
 2. Requirements
 
 1. About
-minCMS is an extemely simple and lightweight almost featureless Content Management System coded in PHP.
+nanoCMS is a featureless Content Management System coded in PHP.
 
 2. Requirements
 PHP5 and MySQL4
